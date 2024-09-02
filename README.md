@@ -1,2 +1,3 @@
 # my-project
-this is my first git repositori
+This is my first git repositori
+AUTHORE~vishalchauhan
